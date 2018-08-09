@@ -1,5 +1,5 @@
 # forgery
-forgery是python库Forgerypy的golang语言版本。用来伪造一些常用数据。
+forgery是python库Forgerypy的go语言版本。用来伪造一些常用数据。
 
 ## 安装
 go get "github.com/xingyys/forgery"
@@ -31,4 +31,4 @@ func main() {
 ## 感谢
 
 其实主要的内容都是来自于 [https://github.com/tomekwojcik/ForgeryPy](https://github.com/tomekwojcik/ForgeryPy),
-个人所做的也只是将python版本的foregery_py**翻译**成golang。
+个人所做的也只是将python版本的foregery_py**翻译**成golang版本的。
