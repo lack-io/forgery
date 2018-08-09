@@ -31,4 +31,4 @@ func main() {
 ## 感谢
 
 其实主要的内容都是来自于 [https://github.com/tomekwojcik/ForgeryPy](https://github.com/tomekwojcik/ForgeryPy),
-个人所做的也只是将python版本的foregery_py**翻译**成golang版本的。
+个人所做的也只是将python版本的forgery_py**翻译**成golang版本的。
